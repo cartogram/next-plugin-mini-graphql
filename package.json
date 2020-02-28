@@ -1,0 +1,11 @@
+{
+  "name": "next-plugin-mini-graphql",
+  "version": "0.0.3",
+  "description": "Provides Next.js support for `.graphql` files using `graphql-mini-transforms`",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "https://github.com/cartogram/next-plugin-mini-graphql",
+  "dependencies": {
+    "graphql-mini-transforms": "^1.0.4"
+  }
+}
